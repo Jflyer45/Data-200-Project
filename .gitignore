@@ -1,0 +1,9 @@
+
+satellite-image-data/test_images_hurricane-matthew.npz
+satellite-image-data/test_images_flooding-fire.npz
+satellite-image-data/socal-fire/train_labels.npy
+satellite-image-data/socal-fire/train_images.npz
+satellite-image-data/midwest-flooding/train_labels.npy
+satellite-image-data/midwest-flooding/train_images.npz
+satellite-image-data/hurricane-matthew/train_labels.npy
+satellite-image-data/hurricane-matthew/train_images.npz
